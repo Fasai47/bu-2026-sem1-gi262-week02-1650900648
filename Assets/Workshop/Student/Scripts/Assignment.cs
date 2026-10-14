@@ -268,7 +268,6 @@ namespace Assignment
             }
         }
 
-        [Header("AS16_MultiplicationTableOf_2_3_and_4")]
         public void AS16_MultiplicationTableOf_2_3_and_4()
         {
             for (int y = 1; y <= 12; y++)
